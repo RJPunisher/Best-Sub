@@ -80,3 +80,4 @@ vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=%2Fass
 vless://a9bac46a-2037-4ad1-a192-08c70927f4ad@faqatchai.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=faqatchai.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=faqatchai.global.ssl.fastly.net#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%AC%D8%AF%DB%8C%D8%AF
 vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D8%BA%DB%8C%D8%B1%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDc1ZGU3NDBlM2Q1MTk3@57.129.95.140:11201#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#%D9%BE%D8%B1%D9%81%DA%A9%D8%AA%D9%88
