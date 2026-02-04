@@ -64,3 +64,5 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%D8%A8%DA%AF%DB%8C%D8%B1%20%D9%86%DA%AF%DB%8C%D8%B1
 vless://c4ef1278-8929-42aa-b869-7de8878863b3@151.101.9.80:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dtteam1.global.ssl.fastly.net&type=ws#%DB%8C%D8%A7%D9%85%20%DB%8C%D8%A7%D9%85
 vless://dabf1935-1ccd-41ca-b411-341ea674d8ef@jolbon4.mojtabajeab.ir:443?mode=auto&path=%2Fdigikala.com%2Flogin%2F%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=oin.jahan-store.ir#%D9%87%D9%85%D8%B1%D8%A7%D9%87
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMzNjNGNhZTAxZjhiYWNm@135.125.247.29:11201#%D8%A2%D9%84%D9%85%D8%A7%D9%86%202
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560&security=tls&insecure=0&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7
