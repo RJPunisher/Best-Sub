@@ -63,3 +63,4 @@ vless://ea1ec3ca-ba07-41a2-925f-7fdb24fba880@f2.springpaatogh8.store:2096?mode=a
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%DB%8C%D8%A7%D9%85%20%DB%8C%D8%A7%D9%852
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%D8%A8%DA%AF%DB%8C%D8%B1%20%D9%86%DA%AF%DB%8C%D8%B1
 vless://c4ef1278-8929-42aa-b869-7de8878863b3@151.101.9.80:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dtteam1.global.ssl.fastly.net&type=ws#%DB%8C%D8%A7%D9%85%20%DB%8C%D8%A7%D9%85
+vless://dabf1935-1ccd-41ca-b411-341ea674d8ef@jolbon4.mojtabajeab.ir:443?mode=auto&path=%2Fdigikala.com%2Flogin%2F%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=oin.jahan-store.ir#%D9%87%D9%85%D8%B1%D8%A7%D9%87
