@@ -1,5 +1,6 @@
 sub.txt
 vless://inanrana@@RJ2094:80?mode=auto&path=%2Fcategory%2Fmusic&security=none&encryption=none&host=anarrara&type=xhttp#%D8%A2%DB%8C%D8%AF%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20RJ2094%40
+vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dojman.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=dojman.global.ssl.fastly.net#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%AC%D8%AF%DB%8C%D8%AF
 vless://erarraa@ninaanan:80?mode=auto&path=%2Fcategory%2Fmusic&security=none&encryption=none&host=irbaa&type=xhttp#%D8%A2%DB%8C%D8%AF%DB%8C%20%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7%20%3A%20RJ_2094%40
 vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path=%2F&security=none&encryption=none&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&type=xhttp#RJ1
 vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path=%2F&security=none&encryption=none&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&type=xhttp#RJ2
