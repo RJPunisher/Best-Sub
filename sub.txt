@@ -87,3 +87,5 @@ hysteria2://test8252201070t20260205105342%3APqJqJD2klugWTo85PyLaOA6qQUYvOFo8@vid
 vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
 vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?security=none&encryption=none&headerType=none&type=tcp#Lc
 vless://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@vipde2.persianhostnet.ir:9091?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#Lc2
+vless://98d677be-b14b-4c14-a96b-4a39a3be645a@cfcdn.zopli.ir:443?path=%2FeyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#wify
+vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#wify
